@@ -1,7 +1,7 @@
 ### Hey!
 
 #### About me
-🎓 I'm currently presuing a Batchlors of Science with a major in Informatics and a focus on Digital Design and Innovation.<br/>
+🎓 I'm currently pursuing a Bachelor of Science with a major in Informatics and a focus on Digital Design and Innovation.<br/>
 💻 I have know Python, JavaScript, TypeScript, HTML, CSS, SCSS and more.
 
 #### Goal
