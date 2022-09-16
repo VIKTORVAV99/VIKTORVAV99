@@ -1,11 +1,11 @@
 ### Hey!
 
 #### About me
-🎓 I'm currently presuing a Batchlors of Science with a major in Informatics and a focus on Digital Design and Innovation.
+🎓 I'm currently presuing a Batchlors of Science with a major in Informatics and a focus on Digital Design and Innovation.<br/>
 💻 I have know Python, JavaScript, TypeScript, HTML, CSS, SCSS and more.
 
 #### Goal
-Making the world a better place through code and helping others to do the same.
+🎉 Making the world a better place through code and helping others to do the same.
 
 <!--
 **VIKTORVAV99/VIKTORVAV99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
