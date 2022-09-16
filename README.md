@@ -2,7 +2,7 @@
 
 #### About me
 🎓 I'm currently pursuing a Bachelor of Science with a major in Informatics and a focus on Digital Design and Innovation.<br/>
-💻 I have know Python, JavaScript, TypeScript, HTML, CSS, SCSS and more.
+💻 I know Python, JavaScript, TypeScript, HTML, CSS, SCSS and more.
 
 #### Goal
 🎉 Making the world a better place through code and helping others to do the same.
