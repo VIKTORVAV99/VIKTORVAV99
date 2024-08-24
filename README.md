@@ -1,14 +1,6 @@
 ### Hey!
 
-#### About me
-🎓 I’m an Informatics student with a passion for technology. I’m pursuing a Bachelor of Science degree at Halmstad University with a focus on Digital Design and Innovation, where I learn how to create and improve digital products and services.  Besides studying, I also work part-time as an Open Source Community Engineer at Electricity Maps, a company that provides real-time data on the carbon footprint of electricity. There, I contribute to various aspects of the project, such as data parsing, frontend development, and continuous integration.
-
-💻 I have skills in Python, JavaScript, TypeScript, HTML, CSS, SCSS and more. I’m especially interested in optimizing apps for size and performance, especially Single Page JavaScript apps that need to be fast and lightweight.
-
-In my free time, I love to explore nature by hiking or on my mountain bike or on my skis, depending on the season or just watching a nice sci-fi show or movie with some popcorn and relax.
-
-#### Goal
-🎉 My goal is to make the world a better place through code and to help others do the same.
+I'm just a guy that likes code, make it peformant and using it to help humannity and the planet!
 
 
 <!--
